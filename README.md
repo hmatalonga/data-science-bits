@@ -5,8 +5,8 @@
 
 <table>
   <thead>
-    <th width="200" style="width: 200px !important">Algorithm</th>
-    <th width="150" style="width: 150px !important">Notebook</th>
+    <th>Algorithm</th>
+    <th>Notebook</th>
   </thead>
   <tbody>
     <tr>
