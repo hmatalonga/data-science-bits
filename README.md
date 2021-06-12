@@ -5,12 +5,12 @@
 
 <table>
   <thead>
-    <th>Algorithm</th>
-    <th>Notebook</th>
+    <th width="600" style="width: 600px !important">Algorithm</th>
+    <th width="200" style="width: 200px !important">Notebook</th>
   </thead>
   <tbody>
     <tr>
-      <td width="200"><a href="notebooks/knn.ipynb">K-Nearest Neighbours</a></td>
+      <td width="600"><a href="notebooks/knn.ipynb">K-Nearest Neighbours</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-bits/master?filepath=notebooks/knn.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
@@ -21,7 +21,7 @@
       </td>
     </tr>
     <tr>
-      <td width="200"><a href="notebooks/knn.ipynb">Linear Regression</a></td>
+      <td width="600"><a href="notebooks/knn.ipynb">Linear Regression</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-bits/master?filepath=notebooks/linear_regression.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td width="200"><a href="notebooks/logistic_regression.ipynb">Logistic Regression</a></td>
+      <td width="600"><a href="notebooks/logistic_regression.ipynb">Logistic Regression</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-bits/master?filepath=notebooks/logistic_regression.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
