@@ -21,7 +21,7 @@
       </td>
     </tr>
     <tr>
-      <td width="600"><a href="notebooks/knn.ipynb">Linear Regression</a></td>
+      <td width="600"><a href="notebooks/linear_regression.ipynb">Linear Regression</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-bits/master?filepath=notebooks/linear_regression.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
